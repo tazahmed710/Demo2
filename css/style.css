@@ -1,3 +1,4 @@
+
 /* Color variables */
 :root {
   --white-color: #fff;
@@ -6,6 +7,7 @@
 }
 /* Changing background color */
 body {
+  font-family: 'Times New Roman', Times, serif;
   background: var(--bg-color) !important;
 }
 /* Changing link color */
